@@ -1,0 +1,42 @@
+.Top {
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+
+.Line {
+  width: 100%;
+  background-color: white;
+}
+
+body {
+  background-image: url(/Rolls-Royce-Dealership4.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text {
+  display: flex;
+  color: red;
+  position: absolute;
+  top: 20%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.text2 {
+  display: flex;
+  color: red;
+  position: absolute;
+  top: 55%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.logo {
+  display: flex;
+  padding: 1px;
+  margin: 1px;
+  position: absolute;
+  top: 1%;
+}

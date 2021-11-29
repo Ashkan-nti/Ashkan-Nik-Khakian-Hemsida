@@ -1,0 +1,99 @@
+body {
+  background-image: url(IfX55nS.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: white;
+  margin: 10px;
+  padding: 1px;
+  display: flex;
+  justify-content: center;
+}
+
+.Bil {
+  width: 130px;
+  height: 30px;
+  border: 5px rgb(116, 77, 183) solid;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.Service {
+  width: 90px;
+  border: none;
+  margin-top: 15px;
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+}
+.Contact{
+    width: 90px;
+    border: none;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+}
+.knappar {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+}
+    
+
+.About{
+    width: 90px;
+    border: none;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+}
+
+.Other{
+    
+    width: 90px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    right: 1%;
+    top: 92%;
+    border: none;
+    background-color: white;
+    color: #333;
+    text-decoration: none;
+    
+    
+}
+
+
+.car{
+  width: 140px;
+  border: none;
+  margin-top: 15px;
+  text-decoration: none;
+  color: #333;
+  cursor: pointer;
+  background-color: white;
+  justify-content: center;
+  text-align: center;
+  text-align: center;
+  
+}
+
+
+
+

@@ -1,0 +1,37 @@
+.top{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Line{
+    background-color: white;
+    width: 100%;
+}
+
+
+body{
+    background-color: black;
+}
+
+
+.logo{
+    display: flex;
+    padding: 1px;
+    margin: 1px;
+    position: absolute;
+    top: 1%;
+}
+.container{
+    display: flex;
+}
+.wraith{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.phantom{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
